@@ -1,0 +1,45 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+.conda/
+
+# Archivos de configuración y caché
+*.DS_Store
+*.log
+*.sqlite
+*.db
+*.cache/
+*.ipynb~ 
+*.swp
+*.bak
+*.tmp
+*.out
+
+# Archivos de salida
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.h5
+
+# Carpeta de datos grandes
+/data/
+*.csv
+
+# Archivos de control de VSCode
+.vscode/
